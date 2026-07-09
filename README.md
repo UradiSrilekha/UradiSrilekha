@@ -5,7 +5,7 @@
 📍 Hyderabad, Telangana, India  
 🎓 BTech Computer Science @ ACE Engineering College  
 🔗 LinkedIn: [Srilekha Uradi](https://www.linkedin.com/in/uradisrilekha)  
-📧 Email: (optional – add if you want)
+📧 Email: srilekhauradi@gmail.com
 
 ---
 
