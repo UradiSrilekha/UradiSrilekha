@@ -55,24 +55,137 @@ I actively participate in **hackathons**, **coding challenges** (CodeChef, Hacke
 
 ## 🚀 Projects
 
-Some of my highlighted projects:
+<details>
+<summary>
+  <strong>🧮 Calculator App</strong>
+</summary>
 
-- **🧮 Calculator App** – Responsive calculator built with HTML, CSS, and JavaScript  
-  [Live Demo](https://calculator-app-beige-seven.vercel.app/) | [GitHub](https://github.com/UradiSrilekha)
+<br/>
 
-- **🎓 Student Complaint Management System** – Web platform for students to submit and track complaints  
-  [Live Demo](https://students-complaint-management-syste-ten.vercel.app/) | [GitHub](https://github.com/UradiSrilekha)
+Responsive calculator built with HTML, CSS, and JavaScript featuring modern UI and smooth calculations.
 
-- **🕉️ Telangana Temple Guide** – Showcase of 8 famous temples in Telangana with details and images  
-  [Live Demo](https://telangana-temple-guide.vercel.app/) | [GitHub](https://github.com/UradiSrilekha)
+| Aspect | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | Fully responsive design, mobile-first approach |
+| **Performance** | Instant calculations, optimized rendering |
+| **Security** | Client-side validation, secure input handling |
+| **Impact** | Clean UI/UX for everyday calculations |
+| **Repository** | [View Project](https://github.com/UradiSrilekha) \| [Live Demo](https://calculator-app-beige-seven.vercel.app/) |
 
-- **🚨 LPG Gas Leakage Detector (IoT)** – IoT-based gas leak detection using Arduino, gas sensor, and HC-05 Bluetooth  
-  [GitHub](https://github.com/UradiSrilekha/LPG-gas-leakage-detector)
+**Key Features:**
+- Built responsive calculator with modern CSS styling
+- Implemented all basic and advanced mathematical operations
+- Optimized for mobile and desktop devices
+- Clean, intuitive user interface with smooth animations
 
-- **🎶 Spotify-Style Music App** – Spotify-inspired music streaming app with playlist and playback controls  
-  [Live Demo](https://6a292df1cb925b8a93ff3d0d--singular-narwhal-5d4796.netlify.app/) | [GitHub](https://github.com/UradiSrilekha/Spotify)
+</details>
 
-You can explore more projects in my [repositories](https://github.com/UradiSrilekha?tab=repositories).
+<details>
+<summary>
+  <strong>🎓 Student Complaint Management System</strong>
+</summary>
+
+<br/>
+
+Web platform for students to submit, track, and manage complaints with admin dashboard for resolution.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript, Backend Database |
+| **Scale** | Multi-user system with admin and student roles |
+| **Performance** | Fast complaint submission and retrieval |
+| **Security** | Role-based access, data validation |
+| **Impact** | Streamlined complaint resolution process |
+| **Repository** | [View Project](https://github.com/UradiSrilekha) \| [Live Demo](https://students-complaint-management-syste-ten.vercel.app/) |
+
+**Key Features:**
+- Created complaint submission form with categorization
+- Built admin dashboard for tracking and managing complaints
+- Implemented status tracking and notification system
+- Responsive design for accessibility across devices
+
+</details>
+
+<details>
+<summary>
+  <strong>🕉️ Telangana Temple Guide</strong>
+</summary>
+
+<br/>
+
+Showcase of 8 famous temples in Telangana with detailed information, images, and cultural significance.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | 8 temples with comprehensive information |
+| **Performance** | Optimized image loading, smooth navigation |
+| **Security** | Static content, secure hosting |
+| **Impact** | Promotes cultural awareness and tourism |
+| **Repository** | [View Project](https://github.com/UradiSrilekha) \| [Live Demo](https://telangana-temple-guide.vercel.app/) |
+
+**Key Features:**
+- Curated information about 8 prominent Telangana temples
+- Integrated high-quality images and detailed descriptions
+- Implemented smooth navigation and search functionality
+- Responsive design for mobile and desktop viewing
+
+</details>
+
+<details>
+<summary>
+  <strong>🚨 LPG Gas Leakage Detector (IoT)</strong>
+</summary>
+
+<br/>
+
+IoT-based gas leak detection system using Arduino, gas sensor, and HC-05 Bluetooth module for real-time alerts.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | Arduino, Gas Sensor, HC-05 Bluetooth, IoT |
+| **Scale** | Real-time monitoring with Bluetooth connectivity |
+| **Performance** | Instant detection, low latency alerts |
+| **Security** | Local monitoring, secure communication |
+| **Impact** | Enhanced safety through early leak detection |
+| **Repository** | [View Project](https://github.com/UradiSrilekha/LPG-gas-leakage-detector) |
+
+**Key Features:**
+- Implemented gas sensor integration with Arduino
+- Configured HC-05 Bluetooth module for wireless alerts
+- Built real-time monitoring system with instant notifications
+- Designed for home and industrial safety applications
+
+</details>
+
+<details>
+<summary>
+  <strong>🎶 Spotify-Style Music App</strong>
+</summary>
+
+<br/>
+
+Spotify-inspired music streaming application with playlist management, playback controls, and modern UI.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | HTML, CSS, JavaScript, Audio APIs |
+| **Scale** | Full music player with playlist support |
+| **Performance** | Smooth playback, responsive controls |
+| **Security** | Client-side audio handling |
+| **Impact** | Seamless music streaming experience |
+| **Repository** | [View Project](https://github.com/UradiSrilekha/Spotify) \| [Live Demo](https://6a292df1cb925b8a93ff3d0d--singular-narwhal-5d4796.netlify.app/) |
+
+**Key Features:**
+- Built Spotify-inspired UI with modern design elements
+- Implemented playlist creation and management features
+- Integrated audio playback controls (play, pause, skip, volume)
+- Responsive design optimized for all devices
+
+</details>
+
+---
 
 ---
 
