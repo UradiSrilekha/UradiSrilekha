@@ -208,14 +208,10 @@ Spotify-inspired music streaming application with playlist management, playback 
 
 ## Contribution Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UradiSrilekha&theme=dark" alt="profile-details" style="width: 48%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UradiSrilekha&theme=dark" alt="languages" style="width: 48%;"/>
-</div>
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UradiSrilekha&theme=dark" alt="commit-language" style="width: 48%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-per-repo?username=UradiSrilekha&theme=dark" alt="stats-per-repo" style="width: 48%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UradiSrilekha&theme=react-dark&bg_color=0D1117&border_color=7C3AED&line=10B981&point=34D399&area=true&hide_border=true&custom_title=📈%20Daily%20Contribution%20Activity" alt="activity-graph" style="width: 100%; max-width: 800px;"/>
 </div>
 --
 
