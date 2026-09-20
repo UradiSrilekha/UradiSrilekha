@@ -209,7 +209,13 @@ Spotify-inspired music streaming application with playlist management, playback 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/UradiSrilekha" alt="contribution-graph" style="width: 100%; max-width: 800px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UradiSrilekha&theme=dark" alt="profile-details" style="width: 48%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UradiSrilekha&theme=dark" alt="languages" style="width: 48%;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UradiSrilekha&theme=dark" alt="commit-language" style="width: 48%;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-per-repo?username=UradiSrilekha&theme=dark" alt="stats-per-repo" style="width: 48%;"/>
 </div>
 --
 
