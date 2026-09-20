@@ -206,10 +206,12 @@ Spotify-inspired music streaming application with playlist management, playback 
 
 ## Daily Activity Graph
 
+## Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UradiSrilekha&theme=github-dark&bg_color=161B22&border_color=7C3AED&line=10B981&point=34D399&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="activity-graph"/>
+  <img src="https://ghchart.rshah.org/7C3AED/UradiSrilekha" alt="contribution-graph" style="width: 100%; max-width: 800px;"/>
 </div>
----
+--
 
 ## 📬 Connect With Me
 
