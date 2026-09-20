@@ -204,6 +204,11 @@ Spotify-inspired music streaming application with playlist management, playback 
 - Opportunities to collaborate on **AI/ML**, **web apps**, or **data-driven projects**
 - Mentorship and feedback to improve my code quality and project design
 
+## Daily Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UradiSrilekha&theme=github-dark&bg_color=161B22&border_color=7C3AED&line=10B981&point=34D399&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="activity-graph"/>
+</div>
 ---
 
 ## 📬 Connect With Me
