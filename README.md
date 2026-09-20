@@ -204,15 +204,6 @@ Spotify-inspired music streaming application with playlist management, playback 
 - Opportunities to collaborate on **AI/ML**, **web apps**, or **data-driven projects**
 - Mentorship and feedback to improve my code quality and project design
 
-## Daily Activity Graph
-
-<div align="center">
-  
-  <h3>Daily Contribution Activity</h3>
-  
-  <img src="https://raw.githubusercontent.com/UradiSrilekha/UradiSrilekha/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" style="width: 100%; max-width: 850px;"/>
-  
-</div>
 --
 
 ## 📬 Connect With Me
