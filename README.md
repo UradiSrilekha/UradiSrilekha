@@ -208,9 +208,10 @@ Spotify-inspired music streaming application with playlist management, playback 
 
 <div align="center">
   
-  <h3>📊 Profile Statistics</h3>
+  <h3>📈 Daily Activity Graph</h3>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UradiSrilekha&theme=dark" alt="profile-details" style="width: 100%; max-width: 850px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UradiSrilekha&bg_color=063B46&color=8AF5F2&line=8AF5F2&point=FFFFFF&area=true&area_color=0B5662&hide_border=true&custom_title=Daily%20GitHub%20Activity" alt="Daily GitHub activity graph" style="width: 100%; max-width: 850px;"/>
+
 </div>
 --
 
